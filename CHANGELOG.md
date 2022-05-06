@@ -7,12 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0 06.05.2022]
+### Changed
+- Fixed operator colours for c/c++ and go
+- Decided to version 1.0.0
+
 ## [0.0.4 06.05.2022]
 ### Added
 - Added icon and screenshot of theme
 
 ### Changed
--Updated readme with screenshot and formatting
+- Updated readme with screenshot and formatting
 
 ### Removed
 - Removed launch.json
