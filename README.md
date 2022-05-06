@@ -1,2 +1,2 @@
 # README
-## Just a colour theme :)
+## Colour Theme for VSCode meant to loosely replicate the popular JetBrains IDE theme.
