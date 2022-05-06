@@ -2,7 +2,7 @@
     "name": "gradianto-deep-ocean",
     "displayName": "Gradianto Deep Ocean",
     "description": "Gradianto (JetBrains IDE's) like Colour Theme",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "fowlow",
     "engines": {
         "vscode": "^1.67.0"

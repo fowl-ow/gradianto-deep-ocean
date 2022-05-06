@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [0.0.2 06.05.2022]
+### Changed
+- Fixed label of old version theme
+
+## [0.0.2 06.05.2022]
 ### Added
 - Better syntax colours for variables, classes, etc.
 
