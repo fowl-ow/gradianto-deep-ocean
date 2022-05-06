@@ -1,0 +1,22 @@
+{
+    "name": "gradianto-deep-ocean",
+    "displayName": "Gradianto Deep Ocean",
+    "description": "Didn't find a Gradianto like theme in VSCode so replicated it roughly. Please message me if there's any copyright  issues or similar and I'll take it down.",
+    "version": "0.0.1",
+    "publisher": "fowlow",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gradianto Deep Ocean",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gradianto Deep Ocean-color-theme.json"
+            }
+        ]
+    }
+}
