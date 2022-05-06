@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Moved previous Version to a new file named "...Old Version..."
+- Updated package.json with old version theme and repository link
+
+### Removed
+- vsc-extension quickstart file
 
 ## [0.0.1 06.05.2022]
 ### Added
