@@ -22,7 +22,7 @@
                 "path": "./themes/Gradianto Deep Ocean-color-theme.json"
             },
             {
-                "label": "Gradianto Deep Ocean",
+                "label": "Gradianto Deep Ocean Old Version",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Gradianto Deep Ocean Old Version-color-theme.json"
             }
