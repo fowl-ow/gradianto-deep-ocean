@@ -1,32 +1,39 @@
 {
-    "name": "gradianto-deep-ocean",
-    "displayName": "Gradianto Deep Ocean",
-    "description": "Gradianto (JetBrains IDE's) like Colour Theme",
-    "version": "1.0.0",
-    "publisher": "fowlow",
-    "icon": "assets/gradianto-deep-ocean-icon.png",
-    "engines": {
-        "vscode": "^1.67.0"
-    },
-    "repository": {
+	"name": "gradianto-deep-ocean",
+	"displayName": "Gradianto Deep Ocean",
+	"description": "Gradianto (JetBrains IDE's) like Colour Theme",
+	"version": "1.0.1",
+	"publisher": "fowlow",
+	"icon": "assets/gradianto-deep-ocean-icon.png",
+	"engines": {
+		"vscode": "^1.67.0"
+	},
+	"repository": {
 		"type": "git",
 		"url": "https://github.com/fowl-ow/gradianto-deep-ocean.git"
 	},
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Gradianto Deep Ocean",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Gradianto Deep Ocean-color-theme.json"
-            },
-            {
-                "label": "Gradianto Deep Ocean Old Version",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Gradianto Deep Ocean Old Version-color-theme.json"
-            }
-        ]
-    }
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Gradianto Deep Ocean",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Gradianto Deep Ocean-color-theme.json"
+			},
+			{
+				"label": "Gradianto Deep Ocean Old Version",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Gradianto Deep Ocean Old Version-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "1327d06b-a04e-4769-828d-69bcafe71803",
+		"publisherDisplayName": "fowl_ow",
+		"publisherId": "c233add9-749b-443a-a2f3-d28cc32bdc39",
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1651865400217
+	}
 }
